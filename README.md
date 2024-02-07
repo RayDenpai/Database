@@ -5,3 +5,8 @@
 - [x]Image Nsfw random
 - [x]Quotes text
 - [x]guide genshin
+- [x] Bug
+- [x] Buggc
+- [x] Jadibot
+- [x] Trade
+- [x] Sosmed
